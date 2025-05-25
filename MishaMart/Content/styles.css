@@ -1,0 +1,277 @@
+﻿/* General Card Styling */
+.card {
+    border: 1px solid #ddd; /* Light border around each card */
+    border-radius: 10px; /* Rounded corners for a sleek look */
+    transition: transform 0.2s; /* Smooth hover effect */
+}
+
+.card:hover {
+    transform: scale(1.05); /* Slight zoom-in effect on hover */
+}
+
+/* Card Title Styling */
+.card-title {
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: #333; /* Darker font color for titles */
+}
+
+/* Card Description Styling */
+.card-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Limit description to 3 lines */
+    -webkit-box-orient: vertical;
+    color: #666; /* Subtle gray font for descriptions */
+}
+
+/* Image Styling */
+.card-img-top {
+    object-fit: cover; /* Ensure the image fills the area without distortion */
+    height: 200px; /* Fixed height for all images */
+    border-bottom: 1px solid #ddd; /* Separator between image and card body */
+}
+
+/* Button Styling for Cards */
+.btn-success {
+    background-color: #28a745;
+    border: none;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 10px;
+    width: 100%; /* Full width button */
+}
+
+.transparent-button {
+    background-color: transparent; /* Seethrough background */
+    border: 2px solid gray; /* Gray outline */
+    color: gray; /* Gray font color */
+    padding: 10px ; /* Add some padding for a proper button size */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s, color 0.3s; /* Smooth hover effect */
+    width: 100%; /* Full width button */
+}
+
+.transparent-button:hover {
+    background-color: gray; /* Gray background on hover */
+    color: white; /* Change font color to white on hover */
+}
+
+.btn-success:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+
+/* Login Page Background Styling */
+body.login-page {
+    background: url('../Content/Background/cover.jpg') no-repeat center center fixed;
+    background-size: cover; /* Ensures the image covers the entire page */
+    min-height: 100vh; /* Ensures the background spans full viewport height */
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif; /* Optional font */
+}
+
+body.sign-up-page {
+    background: linear-gradient(135deg, #4ca1af, #2c3e50);
+}
+
+
+/* Login Card Styling */
+.card {
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+    background-color: #ffffff;
+}
+
+/* Input Fields Styling for Login */
+.form-control-lg {
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 50px; /* Rounded input fields */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Small Link Styling */
+.text-muted {
+    font-size: 0.9rem;
+    text-decoration: none;
+    color: #6c757d;
+}
+
+.text-muted:hover {
+    text-decoration: underline;
+    color: #5a6268;
+}
+
+/* Error Message Styling for Login */
+.text-danger {
+    color: #e3342f;
+    font-size: 0.9rem;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.hero-section {
+    background-image: url('../Content/Background/cover.jpg');
+    background-size: cover;
+    background-repeat: repeat-x;
+    background-position: top left; /* Start repeating from the top left corner */
+    color: white;
+    padding: 3rem;
+    border-radius: 0.5rem;
+}
+
+.second-hero-section {
+    background-image: url('../Content/Background/Banner.jpg'); 
+    background-size: cover; /* Ensures the image covers the entire container */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents tiling */
+    color: white; /* Text color for visibility */
+    padding: 5rem; /* Padding around the text */
+    border-radius: 0.5rem; /* Rounded corners */
+    text-align: center; /* Aligns text to center */
+    display: flex; /* Enables flexbox for alignment */
+    align-items: center; /* Centers content vertically */
+    justify-content: center; /* Centers content horizontally */
+}
+
+
+.second-hero-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Content/Background/Banner.jpg');
+}
+
+.hero-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Content/Background/cover.jpg');
+}
+
+.hero-section h2, .hero-section p {
+    text-align: center;
+}
+
+.input-group {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+    .input-group .form-control {
+        border: none;
+        border-radius: 0;
+    }
+
+    .input-group .btn-primary {
+        border-radius: 0 8px 8px 0;
+    }
+/* Profile Page Styles */
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.profile-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #2c2c2c;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+.profile-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+    .profile-header h2 {
+        margin: 0;
+        font-size: 28px;
+    }
+
+.profile-card {
+    background-color: #333;
+    border: 1px solid #444;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+    .form-group label {
+        font-weight: bold;
+    }
+
+.form-control {
+    background-color: #444;
+    color: #fff;
+    border: 1px solid #555;
+}
+
+.btn-custom {
+    background-color: #007bff; /* Bright blue */
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 123, 255, 0.5); /* Adds a glowing shadow */
+    cursor: pointer;
+    transition: all 0.3s ease-in-out; /* Smooth hover transition */
+    text-transform: uppercase;
+}
+
+    .btn-custom:hover {
+        background-color: #0056b3; /* Darker blue on hover */
+        box-shadow: 0 6px 12px rgba(0, 86, 179, 0.8); /* Stronger glow effect */
+        transform: translateY(-2px); /* Subtle lift effect */
+    }
+
+    .btn-custom:active {
+        background-color: #003d80; /* Even darker blue */
+        transform: translateY(0); /* Return to default position */
+        box-shadow: 0 3px 6px rgba(0, 123, 255, 0.5); /* Reduced shadow */
+    }
+
+.btn-danger {
+    color: #fff;
+    background-color: #e74c3c;
+    border: none;
+    padding: 5px 10px;
+    font-size: 14px;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s ease;
+}
+
+    .btn-danger:hover {
+        background-color: #c0392b;
+    }
+
+    .btn-danger i {
+        font-size: 16px;
+        line-height: 1;
+    }
+
+.table td:nth-child(3),
+.table th:nth-child(3) {
+    border: 1px solid transparent; /* Makes the border invisible */
+    text-align: center; /* Centers the content */
+    width: 50px; /* Optional: Adjust column width */
+}
+

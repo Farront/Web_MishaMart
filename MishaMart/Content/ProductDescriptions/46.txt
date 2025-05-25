@@ -1,0 +1,30 @@
+Play with 4-15 player online or via local WiFi as you attempt to prepare your spaceship for departure, but beware as one or more random players among the Crew are Impostors bent on killing everyone!
+
+Originally created as a party game, we recommend playing with friends at a LAN party or online using voice chat. Enjoy cross-platform play between Android, iOS, PC, and console.
+
+
+Win by completing tasks to prepare the ship or ejecting all Impostors.
+React quickly to undo the Impostor's sabotages.
+Check the Admin map and Security cameras to keep tabs on other Crewmates.
+Report any dead bodies immediately to start discussion of who the suspected Impostor is.
+Call emergency meetings to discuss suspicious behavior.
+Vote to eject suspected Impostors.
+
+
+
+Kill Crewmates and frame bystanders.
+Pretend to run tasks to blend in with the crewmates.
+Sneak through the vents to quickly move about the ship.
+Use sabotages to cause chaos and divide the crew.
+Close doors to trap victims and kill in private.
+
+
+Features
+Customization: Pick your color, hat, visor, skin, and pet.
+Lots of game options: Add more Impostors, more tasks, different roles, and so much more!
+Different modes to choose from: Classic or Hide n Seek.
+4 different maps to play in: The Skeld, MIRA HQ, Polus, and the Airship.
+Quickly find a game online from the host list.
+In-game text chat.
+Rich Discord integration.
+Cross-platform play between PC, console, Android, and iOS!

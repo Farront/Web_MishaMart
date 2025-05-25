@@ -1,0 +1,184 @@
+With this module you will unlock the full and unlimited support for "F1 22" (by Codemasters/Electronic Arts) in Sim Racing Telemetry.
+
+To use this module you must own a copy of "F1 22" on a supported platform (PC, PS4/5, Xbox) and follow the integrated instructions to record data.
+
+Note: this product is not made by, or affiliated with, the developer and/or owners of the game.
+
+On game updates the communication protocol could change, in this case we'll publish an update in a few days. For any problem, please contact us .
+
+To record data, both the computer running SRT and the PC/console running the game must be connected to the same network. The game and SRT can run on the same computer. SRT records only complete timed laps. Follow the integrated instructions (Help button in the Recording view) to configure the game and properly record telemetry data.
+List of supported parameters
+ABS (setup)
+Air temperature
+Angular acceleration
+Angular velocity
+Anti-roll bars (setup)
+Anti-roll bar (setup F)
+Anti-roll bar (setup R)
+Ballast (setup)
+Brake assist
+Brake damage
+Brake bias (setup)
+Brake pressure (setup)
+Brakes temperature
+Brake temperature (FL)
+Brake temperature (FR)
+Brake temperature (RL)
+Brake temperature (RR)
+Camber (setup)
+Camber (setup FL)
+Camber (setup FR)
+Camber (setup RL)
+Camber (setup RR)
+CE damage
+Differential on-throttle (setup)
+Differential off-throttle (setup)
+Diffuser damage
+DRS allowed
+DRS
+DRS assist
+DRS damage
+DRS activation distance
+Engine blown
+Engine damage
+Engine seized
+Engine temperature
+ERS assist
+ERS damage
+ERS deployed
+ERS mode
+ERS harvested (MGU-H)
+ERS harvested (MGU-K)
+ERS Energy Store
+ES damage
+Floor damage
+Front brakes bias
+Gear shift assist
+Fuel (setup)
+Fuel remaining laps
+Fuel type
+Game mode
+Gearbox damage
+ICE damage
+MGU-H wear
+MGU-K wear
+Online race
+Penalties
+Pit assist
+Ideal lap to pit
+Pit-lane time
+Latest lap to pit
+Predicted rejoin position (pit)
+Pit release assist
+Pit-stop time
+Pit limiter
+Pitch
+Pit speed limit
+Racing line assist
+Racing line assist type
+Roll
+Ruleset
+Safety car delta
+Safety car
+Session length
+Sidepod damage
+Start grid position
+Steering assist
+Suggested gear
+Suspensions acceleration
+Suspension acceleration (FL)
+Suspension acceleration (FR)
+Suspension acceleration (RL)
+Suspension acceleration (RR)
+Suspensions height (setup)
+Suspension height (setup FL)
+Suspension height (setup FR)
+Suspension height (setup RL)
+Suspension height (setup RR)
+Suspensions position
+Suspension position (FL)
+Suspension position (FR)
+Suspension position (RL)
+Suspension position (RR)
+Suspension springs (setup)
+Suspension spring (setup FL)
+Suspension spring (setup FR)
+Suspension spring (setup RL)
+Suspension spring (setup RR)
+Suspensions velocity
+Suspension velocity (FL)
+Suspension velocity (FR)
+Suspension velocity (RL)
+Suspension velocity (RR)
+TC damage
+Terrain (FL)
+Terrain (FR)
+Terrain (RL)
+Terrain (RR)
+Time of Day (recording)
+Toe (setup)
+Toe setup (FL)
+Toe setup (FR)
+Toe setup (RL)
+Toe setup (RR)
+Traction control (setup)
+Track temperature
+Tyres damage
+Tyre damage (FL)
+Tyre damage (FR)
+Tyre damage (RL)
+Tyre damage (RR)
+Tyres pressure
+Tyre pressure (FL)
+Tyre pressure (FR)
+Tyre pressure (RL)
+Tyre pressure (RR)
+Tyres age
+Tyres pressure (setup)
+Tyre pressure (setup FL)
+Tyre pressure (setup FR)
+Tyre pressure (setup RL)
+Tyre pressure (setup RR)
+Tyres surface temperature
+Tyre surface temperature (FL)
+Tyre surface temperature (FR)
+Tyre surface temperature (RL)
+Tyre surface temperature (RR)
+Tyres inner temperature
+Tyre inner temperature (FL)
+Tyre inner temperature (FR)
+Tyre inner temperature (RL)
+Tyre inner temperature (RR)
+Tyres wear
+Tyre wear (FL)
+Tyre wear (FR)
+Tyre wear (RL)
+Tyre wear (RR)
+Warnings
+Weather
+Wheels slip Angle
+Wheel slip Angle (FL)
+Wheel slip Angle (FR)
+Wheel slip Angle (RL)
+Wheel slip Angle (RR)
+Wheels slip Ratio
+Wheel slip Ratio (FL)
+Wheel slip Ratio (FR)
+Wheel slip Ratio (RL)
+Wheel slip Ratio (RR)
+Wheels speed
+Wheel speed (FL)
+Wheel speed (FR)
+Wheel speed (RL)
+Wheel speed (RR)
+Wing damage (FL)
+Wing damage (FR)
+Wing damage (R)
+Wings (setup)
+Wing setup (F)
+Wing setup (R)
+Yaw
+
+NOTE: DLCs on Steam are not transferable to other supported platforms (iOS, Android): digital stores are run by different companies and they don't allow us to transfer purchases made in other stores.
+
+All product names, logos, registered trademarks and brands are property of their respective owners. All company, product and service names used are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.
