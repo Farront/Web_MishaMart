@@ -1,5 +1,5 @@
 # Web_MishaMart
-Trang web bán trò chơi điện tử sử dụng C# (Core) và Java (UI)
+Trang web bán trò chơi điện tử sử dụng C# (Source) và Java (UI)
 
 --Copy file .mdf và .log vào database (Hoặc sử dụng query để xây CSDL) (C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\DATA)
 --Thay đổi connectionString trong Web.Config của file .sln 
